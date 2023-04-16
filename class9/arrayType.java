@@ -9,7 +9,7 @@ public class arrayType {
         arr[1]=2;
         arr[2]=3;
         arr[3]=4;
-        for (int i = 0; i < 4; i++)
+        for (int i = 0; i <= 4; i++)
 
     {
 
